@@ -1,6 +1,6 @@
 ## Welcome to Docker Deployment Issues  Pages
 
-This repository will use only for  [Docker Deployment](https://github.com/uzzal2k5/DockerDeployment/edit/master/README.md) 
+This repository will use only for  [Docker Deployment](https://github.com/uzzal2k5/DockerDeployment) 
 
 Whenever you face some issue with your docker container create an issue here. I will try to give you feedback an try to let you know the probable cause of issues.
 
