@@ -1,4 +1,4 @@
-## Welcome to Docker Deployment Issues  Pages
+## Welcome to Docker Deployment Issues  Page
 
 This repository will use only for  [Docker Deployment](https://github.com/uzzal2k5/DockerDeployment) 
 
