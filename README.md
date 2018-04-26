@@ -1,33 +1,11 @@
 ## Welcome to Docker Deployment Issues  Pages
 
-You can use the [editor on GitHub](https://github.com/uzzal2k5/DockerDeployment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository will use only for  [Docker Deployment](https://github.com/uzzal2k5/DockerDeployment/edit/master/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you face some issue with your docker container create an issue here. I will try to give you feedback an try to let you know the probable cause of issues.
 
 ### Create an Issuse Related to dokcer , kubernets 
 
-
-```markdown
-Syntax highlighted code block
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uzzal2k5/DockerDeployment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
