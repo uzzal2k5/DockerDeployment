@@ -20,4 +20,4 @@ Reach me out anytime -
 * Skype :  uzzal2k5
 * Hangout:  uzzal2k5 
 * [upwork](https://www.upwork.com/o/profiles/users/_~010d6a5ed786645fda/)
-* [Get Resume](https://drive.google.com/open?id=0Bwh3MHI4D0AnYXRLYnc3MUVuSHM)
+* [Get Resume](https://drive.google.com/open?id=1hpzcQBO-KTUuQsRy_qdIvd5CMVaMMWX5)
